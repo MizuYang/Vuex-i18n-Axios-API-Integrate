@@ -1,0 +1,2 @@
+ - Vuex 狀態管理庫
+ - 整合 Axios Headers
